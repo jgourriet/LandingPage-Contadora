@@ -1533,7 +1533,8 @@ h6 {
   }
 
   #intro .intro-img {
-    width: 80%;
+    margin-top: 150px;
+    width: 90%;
   }
 
   #intro .intro-info {
@@ -1543,7 +1544,7 @@ h6 {
 
   #intro .intro-info h2 {
     font-size: 34px;
-    margin-bottom: 30px;
+    margin-top: 100px;
   }
 
   .section-header p {
